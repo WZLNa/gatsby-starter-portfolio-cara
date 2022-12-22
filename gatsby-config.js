@@ -28,9 +28,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `WZLN的小木屋`,
+        short_name: `WZLN`,
+        description: `WZLN的自留地`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
@@ -45,7 +45,7 @@ module.exports = {
           },
           {
             src: `/android-chrome-512x512.png`,
-            sizes: `512x512`,
+            sizes: `512x511`,
             type: `image/png`,
           },
         ],
