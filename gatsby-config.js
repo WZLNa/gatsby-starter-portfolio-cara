@@ -13,8 +13,8 @@ module.exports = {
     siteTitle: `WZLN`,
     siteTitleAlt: `WZLN的小木屋`,
     siteHeadline: `WZLN的小木屋`,
-    siteUrl: `https://wzln.tk`,
-    siteDescription: `WZLN的自留地`,
+    siteUrl: `https://wzln.ga`,
+    siteDescription: `WZLN的个人主页`,
     siteImage: `/banner.jpg`,
     author: `WZLN`,
   },
@@ -30,7 +30,7 @@ module.exports = {
       options: {
         name: `WZLN的小木屋`,
         short_name: `WZLN`,
-        description: `WZLN的自留地`,
+        description: `WZLN的个人主页`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
