@@ -13,7 +13,7 @@ module.exports = {
     siteTitle: `WZLN`,
     siteTitleAlt: `WZLN的小木屋`,
     siteHeadline: `WZLN的小木屋`,
-    siteUrl: `https://wzln.ga`,
+    siteUrl: `https://wzln.link`,
     siteDescription: `WZLN的个人主页`,
     siteImage: `/banner.jpg`,
     author: `WZLN`,
