@@ -11,7 +11,7 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `WZLN`,
-    siteTitleAlt: `WZLN的小木屋`,
+    siteTitleAlt: `𝙒𝙕𝙇𝙉`,
     siteHeadline: `WZLN的小木屋`,
     siteUrl: `https://wzln.link`,
     siteDescription: `WZLN的个人主页`,
