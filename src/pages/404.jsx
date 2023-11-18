@@ -44,9 +44,9 @@ const NotFound = () => (
         </Divider>
         <Content sx={{ variant: `texts.bigger` }} speed={0.4} offset={0} factor={1}>
           <Inner>
-            <Themed.h1>404 - 不存在的页面</Themed.h1>
+            <Themed.h1>404 - 页面走丢了</Themed.h1>
             <Themed.p>
-              回 <Link to="/">主页</Link>.
+              回 <Link to="/">wzln.link</Link>.
             </Themed.p>
           </Inner>
         </Content>
